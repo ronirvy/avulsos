@@ -8,7 +8,7 @@ autoinstall:
   identity:
     hostname: ubuntu-dev
     username: devuser
-    password: "$6$dIc2Ahn1kCmYshTJ$x6TsVbYhKVcNi8zc4KtitrtGnIu5NcFUlKtp1ituo9FhEo2w27ipkVF8fa6Jt7TKJOO.EPFh4/YMKpUPXjYk//"  # Substitua pelo hash da senha
+    password: "$6$TEXTOHASH"  # Substitua pelo hash da senha
   ssh:
     install-server: true
     authorized-keys: []
